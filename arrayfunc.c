@@ -37,7 +37,7 @@ int main()
     printf("``````````````````````````````````````` \n");
     func2(arr);
 
-    printf("After doing all this bakchodi we are again printing the array in the main function to check whether it affected the arrray \n");
+    printf("After doing all this we are again printing the array in the main function to check whether it affected the arrray \n");
 
     for (int i = 0; i < 5; i++)
     {
